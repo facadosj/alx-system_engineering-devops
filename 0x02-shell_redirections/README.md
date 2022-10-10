@@ -1,1 +1,1 @@
-0x02. shell, I/O Redirections and filters
+echo 'Write a script that prints "Hello, World" > README.md
